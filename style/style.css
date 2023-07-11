@@ -203,3 +203,19 @@ body {
 .deal{
     color: #E55473;
 }
+/* instagram section style */
+.ing-image-container{
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+.ing-description{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.box{
+    width: 250px;
+    margin: 10px;
+}
