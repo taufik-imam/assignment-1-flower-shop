@@ -193,29 +193,58 @@ body {
     background: rgba(229, 84, 115, 0.05);
     margin-bottom: 80px;
 }
-.deal-img{
+
+.deal-img {
     width: 250px;
     margin-right: 100px;
 }
-.deal-description{
+
+.deal-description {
     margin-left: 100px;
 }
-.deal{
+
+.deal {
     color: #E55473;
 }
+
 /* instagram section style */
-.ing-image-container{
+.ing-image-container {
     display: flex;
     justify-content: space-around;
     width: 80%;
     margin: 0 auto;
     margin-bottom: 100px;
 }
-.ing-description{
+
+.ing-description {
     text-align: center;
     margin-bottom: 30px;
 }
-.box{
+
+.box {
     width: 250px;
     margin: 10px;
+}
+
+/* Rose Section Style */
+.rose-image-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+    height: 80vh;
+}
+.rose-header{
+    text-align: center;
+}
+
+.rose-box {
+    width: 220px;
+    padding: 32px;
+}
+
+.rose-title {
+    font-size: 16px;
+    text-align: center;
 }
