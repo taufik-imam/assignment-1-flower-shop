@@ -235,7 +235,8 @@ body {
     margin: 0 auto;
     height: 80vh;
 }
-.rose-header{
+
+.rose-header {
     text-align: center;
 }
 
@@ -247,4 +248,26 @@ body {
 .rose-title {
     font-size: 16px;
     text-align: center;
+}
+
+/* latest deal style */
+.latest-deal-container {
+    background-image: url('../flower asset/Rectangle\ 9.png');
+    background-position: center;
+    background-size: cover;
+    width: 80%;
+    margin: auto;
+    padding: 30px;
+    height: 50vh;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    text-align: center;
+}
+
+input {
+    border-radius: 8px;
+    background: #FFF;
+    border: none;
+    padding: 20px 150px 20px 20px;
+    margin-right: 15px;
 }
