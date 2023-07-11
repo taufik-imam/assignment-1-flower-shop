@@ -286,6 +286,7 @@ input {
     font-size: 40px;
     font-weight: 800;
     margin-bottom: 15px;
+    padding-top: 85px;
 }
 
 .footer-span {
@@ -295,13 +296,11 @@ input {
 }
 
 .footer-description {
-    font-size: 18px;
+    font-size: 15px;
     font-weight: 400;
-    line-height: 30px;
     margin-bottom: 15px;
 }
 small{
-    font-size: 16px;
-    font-weight: 400;
+    font-size: 13px;
 
 }
